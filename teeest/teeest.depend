@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1518189505 source:c:\users\badr red1\desktop\teeest\backtracking sa sans gen.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"functions.h"
+
+1517368821 c:\users\badr red1\desktop\teeest\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1517711483 source:c:\users\badr red1\desktop\teeest\bb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1517368905 source:c:\users\badr red1\desktop\teeest\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<stdbool.h>
+	"constantes.h"
+
+1517151285 c:\users\badr red1\desktop\teeest\constantes.h
+
+1518189440 source:c:\users\badr red1\desktop\teeest\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<stdbool.h>
+	<string.h>
+	"functions.h"
+	"constantes.h"
+
+1517710445 source:c:\users\badr red1\desktop\teeest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string.h>
+	<stdbool.h>
+	"constantes.h"
+
+1518189564 source:c:\users\badr red1\desktop\teeest\menu_niveau.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<stdbool.h>
+	<string.h>
+	"constantes.h"
+
+1518189640 source:c:\users\badr red1\desktop\teeest\selction_grille.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string.h>
+	"constantes.h"
+
+1518186171 source:c:\users\badr red1\desktop\teeest\ressources.rc
+
